@@ -65,7 +65,6 @@
         </nestedClassifier>
         <nestedClassifier xmi:type="uml:Class" xmi:id="_I9aVwEMAEe2I14tjajMIyA" name="Algorithme"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_DLByUEL-Ee2I14tjajMIyA" name="Requirement7"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_rnx_4EL8Ee2I14tjajMIyA" name="Ergonomie">
         <nestedClassifier xmi:type="uml:Class" xmi:id="_uA0T0EL8Ee2I14tjajMIyA" name="Allumer et éteindre"/>
         <nestedClassifier xmi:type="uml:Class" xmi:id="_H2sssEL9Ee2I14tjajMIyA" name="charger"/>
@@ -133,21 +132,20 @@
     </profileApplication>
   </uml:Model>
   <Requirements:Requirement xmi:id="_7vlDgEL0Ee2I14tjajMIyA" base_NamedElement="_7up2cEL0Ee2I14tjajMIyA" id="1" base_Class="_7up2cEL0Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_2DpeoEL4Ee2I14tjajMIyA" base_NamedElement="_2DnpcEL4Ee2I14tjajMIyA" id="4.1" text="Le robot doit avoir un coque pour la protéction et pour l'estétique.&#xA;" base_Class="_2DnpcEL4Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_MLSEIEL5Ee2I14tjajMIyA" base_NamedElement="_MLQO8EL5Ee2I14tjajMIyA" id="4.2" text="Tous les câbles doivent être fixés sur un circuit imprimé." base_Class="_MLQO8EL5Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_73IqwEL5Ee2I14tjajMIyA" base_NamedElement="_73GOgEL5Ee2I14tjajMIyA" id="4.3" text="Le robot doit être démontable." base_Class="_73GOgEL5Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_LEX0gEL7Ee2I14tjajMIyA" base_NamedElement="_LEVYQEL7Ee2I14tjajMIyA" base_Class="_LEVYQEL7Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_M0BNMEL7Ee2I14tjajMIyA" base_NamedElement="_Mz-w8EL7Ee2I14tjajMIyA" text="Le robot ne doit pas entrer en collision avec un obstacle." base_Class="_Mz-w8EL7Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_tG768EL7Ee2I14tjajMIyA" base_NamedElement="_tG2bYEL7Ee2I14tjajMIyA" text="Le robot ne doit pas entrer en collision avec un mur.&#xA;" base_Class="_tG2bYEL7Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_yRbp4EL7Ee2I14tjajMIyA" base_NamedElement="_yRZ0sEL7Ee2I14tjajMIyA" text="Le robot doit toujours rester sur ses roues de sorte qu'il soit capable de se déplacer." base_Class="_yRZ0sEL7Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_rnzOAEL8Ee2I14tjajMIyA" base_NamedElement="_rnx_4EL8Ee2I14tjajMIyA" base_Class="_rnx_4EL8Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_uA2JAEL8Ee2I14tjajMIyA" base_NamedElement="_uA0T0EL8Ee2I14tjajMIyA" text="L'utilisateur doit être capable d'allumer et d'éteindre le robot facilement." base_Class="_uA0T0EL8Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_H2t60EL9Ee2I14tjajMIyA" base_NamedElement="_H2sssEL9Ee2I14tjajMIyA" text="L'utilisateur doit être capable de charger le robot facilement." base_Class="_H2sssEL9Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_exYfwEL9Ee2I14tjajMIyA" base_NamedElement="_exSZIEL9Ee2I14tjajMIyA" base_Class="_exSZIEL9Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_4HMRcEL9Ee2I14tjajMIyA" base_NamedElement="_4HJ1MEL9Ee2I14tjajMIyA" text="Le robot doit être construit seulement des composants imposés." base_Class="_4HJ1MEL9Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_DLH48EL-Ee2I14tjajMIyA" base_NamedElement="_DLByUEL-Ee2I14tjajMIyA" base_Class="_DLByUEL-Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_t67cUEL-Ee2I14tjajMIyA" base_NamedElement="_t65nIEL-Ee2I14tjajMIyA" text="Le robot doit seulement utiliser un capteur ultrasonique et pas d'autres capteurs." base_Class="_t65nIEL-Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_9k4MsEL-Ee2I14tjajMIyA" base_NamedElement="_9k2XgEL-Ee2I14tjajMIyA" text="Le robot doit utiliser une batterie comme seule source d'énergie." base_Class="_9k2XgEL-Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_U4Z9kEL_Ee2I14tjajMIyA" base_NamedElement="_U4YIYEL_Ee2I14tjajMIyA" text="Le robot doit se déplacer seulement d'aide d'un servomoteur et de 4 roues au maximum." base_Class="_U4YIYEL_Ee2I14tjajMIyA"/>
-  <Requirements:Requirement xmi:id="_I9cyAEMAEe2I14tjajMIyA" base_NamedElement="_I9aVwEMAEe2I14tjajMIyA" text="Le robot doit se déplacer conformément à un algorithme. L'algorithme doit garantir que la robot sort de la pièce rapidement, au maximum dans 6 minutes." base_Class="_I9aVwEMAEe2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_2DpeoEL4Ee2I14tjajMIyA" base_NamedElement="_2DnpcEL4Ee2I14tjajMIyA" id="2.2" text="Le robot doit avoir un coque pour la protéction et pour l'estétique.&#xA;" base_Class="_2DnpcEL4Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_MLSEIEL5Ee2I14tjajMIyA" base_NamedElement="_MLQO8EL5Ee2I14tjajMIyA" id="2.3" text="Tous les câbles doivent être fixés sur un circuit imprimé." base_Class="_MLQO8EL5Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_73IqwEL5Ee2I14tjajMIyA" base_NamedElement="_73GOgEL5Ee2I14tjajMIyA" id="2.4" text="Le robot doit être démontable." base_Class="_73GOgEL5Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_LEX0gEL7Ee2I14tjajMIyA" base_NamedElement="_LEVYQEL7Ee2I14tjajMIyA" id="3" base_Class="_LEVYQEL7Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_M0BNMEL7Ee2I14tjajMIyA" base_NamedElement="_Mz-w8EL7Ee2I14tjajMIyA" id="3.1" text="Le robot ne doit pas entrer en collision avec un obstacle." base_Class="_Mz-w8EL7Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_tG768EL7Ee2I14tjajMIyA" base_NamedElement="_tG2bYEL7Ee2I14tjajMIyA" id="3.2" text="Le robot ne doit pas entrer en collision avec un mur.&#xA;" base_Class="_tG2bYEL7Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_yRbp4EL7Ee2I14tjajMIyA" base_NamedElement="_yRZ0sEL7Ee2I14tjajMIyA" id="3.3" text="Le robot doit toujours rester sur ses roues de sorte qu'il soit capable de se déplacer." base_Class="_yRZ0sEL7Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_rnzOAEL8Ee2I14tjajMIyA" base_NamedElement="_rnx_4EL8Ee2I14tjajMIyA" id="5" base_Class="_rnx_4EL8Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_uA2JAEL8Ee2I14tjajMIyA" base_NamedElement="_uA0T0EL8Ee2I14tjajMIyA" id="5.1" text="L'utilisateur doit être capable d'allumer et d'éteindre le robot facilement." base_Class="_uA0T0EL8Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_H2t60EL9Ee2I14tjajMIyA" base_NamedElement="_H2sssEL9Ee2I14tjajMIyA" id="5.2" text="L'utilisateur doit être capable de charger le robot facilement." base_Class="_H2sssEL9Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_exYfwEL9Ee2I14tjajMIyA" base_NamedElement="_exSZIEL9Ee2I14tjajMIyA" id="2" base_Class="_exSZIEL9Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_4HMRcEL9Ee2I14tjajMIyA" base_NamedElement="_4HJ1MEL9Ee2I14tjajMIyA" id="2.1" text="Le robot doit être construit seulement des composants imposés." base_Class="_4HJ1MEL9Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_t67cUEL-Ee2I14tjajMIyA" base_NamedElement="_t65nIEL-Ee2I14tjajMIyA" id="2.1.1" text="Le robot doit seulement utiliser un capteur ultrasonique et pas d'autres capteurs." base_Class="_t65nIEL-Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_9k4MsEL-Ee2I14tjajMIyA" base_NamedElement="_9k2XgEL-Ee2I14tjajMIyA" id="2.1.2" text="Le robot doit utiliser une batterie comme seule source d'énergie." base_Class="_9k2XgEL-Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_U4Z9kEL_Ee2I14tjajMIyA" base_NamedElement="_U4YIYEL_Ee2I14tjajMIyA" id="2.1.3" text="Le robot doit se déplacer seulement d'aide d'un servomoteur et de 4 roues au maximum." base_Class="_U4YIYEL_Ee2I14tjajMIyA"/>
+  <Requirements:Requirement xmi:id="_I9cyAEMAEe2I14tjajMIyA" base_NamedElement="_I9aVwEMAEe2I14tjajMIyA" id="4" text="Le robot doit se déplacer conformément à un algorithme. L'algorithme doit garantir que la robot sort de la pièce rapidement, au maximum dans 6 minutes." base_Class="_I9aVwEMAEe2I14tjajMIyA"/>
 </xmi:XMI>
