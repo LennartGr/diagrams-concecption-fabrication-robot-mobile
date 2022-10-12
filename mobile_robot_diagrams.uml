@@ -12,7 +12,7 @@
         <packagedElement xmi:type="uml:UseCase" xmi:id="_lGbYQELnEe2uy5fJon-0Bg" name="recharger"/>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_7iyQkELnEe2uy5fJon-0Bg" name="s'éteindre"/>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_4dukIELnEe2uy5fJon-0Bg" name="se mettre en marche"/>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_8UUbMELnEe2uy5fJon-0Bg" name="éviter l'obstacle">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_8UUbMELnEe2uy5fJon-0Bg" name="éviter l'obstacle   ">
           <extend xmi:type="uml:Extend" xmi:id="_1-ZosELsEe2ohcFmfQP0Vw" extendedCase="_8rp9IELnEe2uy5fJon-0Bg" extensionLocation="_1-aPwELsEe2ohcFmfQP0Vw"/>
         </packagedElement>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_8mfwUELnEe2uy5fJon-0Bg" name="se déplacer">
@@ -22,7 +22,7 @@
           <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_x5RmYULsEe2ohcFmfQP0Vw" name="ExtensionPoint5"/>
           <include xmi:type="uml:Include" xmi:id="_l9oTwELsEe2ohcFmfQP0Vw" addition="_7iyQkELnEe2uy5fJon-0Bg"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_8rp9IELnEe2uy5fJon-0Bg" name="sortir de la salle">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_8rp9IELnEe2uy5fJon-0Bg" name="sortir de la salle   ">
           <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_1-aPwELsEe2ohcFmfQP0Vw" name="ExtensionPoint2"/>
           <include xmi:type="uml:Include" xmi:id="_oiAVAELsEe2ohcFmfQP0Vw" addition="_8mfwUELnEe2uy5fJon-0Bg"/>
         </packagedElement>
