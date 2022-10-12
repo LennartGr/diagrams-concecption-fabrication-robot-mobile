@@ -1,0 +1,8 @@
+Github diagrammes pour le cahier des charges:
+https://github.com/LennartGr/diagrams-concecption-fabrication-robot-mobile
+
+Tutoriels pour eclipse, papyrus avec sysml et la création d’une diagramme d’exigences:
+https://www.youtube.com/watch?v=NNRMMjb_BiQ (installation)
+https://www.youtube.com/watch?v=VTmxlG7E-_4 (creating requirements)
+https://www.youtube.com/watch?v=ekiHlkaX0WU (creating requirement diagram)
+
